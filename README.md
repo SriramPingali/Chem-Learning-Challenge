@@ -1,0 +1,2 @@
+# Chem-Learning-Challenge
+Air pollution is a persistent problem of the world, which has been around for a while and will continue to exist in the future. It is a cause of a lot of problems and has extremely adverse effects. For curbing air pollution, its analysis is first necessary. For making predictions about the air quality, domain knowledge is essential, as are data analysis skills. This problem statement tests them all.
