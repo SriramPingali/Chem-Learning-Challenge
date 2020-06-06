@@ -15,8 +15,8 @@ Script which loads the model (from the weights file) and evaluates on CLC_test.c
 3) weights
 The file which stores the state_dict of our best performing model.
 
-4)submission_csv.csv
+4) submission_csv.csv
 The csv files which stores the predictions of our best performing model(from the weights file)
 
-5)Report.pdf
+5) Report.pdf
 Comprehensive description of our experiments and our findings along with the results.
