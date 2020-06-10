@@ -39,5 +39,5 @@ accuracy obtained. We experimented with the number of neurons of
 each layer and activation functions and found the below depicted model
 to perform the best for the given data.
 
-![Architecture]https://user-images.githubusercontent.com/43778095/84232153-56f45880-ab0d-11ea-9c6c-5d4de6aafd4a.png
-![Correlation Circle PCA]https://user-images.githubusercontent.com/43778095/84232163-5bb90c80-ab0d-11ea-8b25-bccf8a2d266d.png
+![Architecture](https://user-images.githubusercontent.com/43778095/84232153-56f45880-ab0d-11ea-9c6c-5d4de6aafd4a.png)
+![Correlation Circle PCA](https://user-images.githubusercontent.com/43778095/84232163-5bb90c80-ab0d-11ea-8b25-bccf8a2d266d.png)
