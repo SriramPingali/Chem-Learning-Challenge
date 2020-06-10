@@ -18,5 +18,8 @@ The file which stores the state_dict of our best performing model.
 4) submission_csv.csv
 The csv files which stores the predictions of our best performing model(from the weights file)
 
-5) Report.pdf
-Comprehensive description of our experiments and our findings along with the results.
+5) CLC_train.csv, CLC_test.csv are train and test data respectively.
+
+6) Data_analysis.ipynb is the priminary data exploration and finding out relevant features and attributes.
+
+7) Report.pdf Comprehensive description of our experiments and our findings along with the results.
