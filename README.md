@@ -23,3 +23,19 @@ The csv files which stores the predictions of our best performing model(from the
 6) Data_analysis.ipynb is the priminary data exploration and finding out relevant features and attributes.
 
 7) Report.pdf Comprehensive description of our experiments and our findings along with the results.
+
+## Experiments
+Our approach to predict the pollution levels in the air is through a feed
+forward neural network. We preferred deployment of a multi-layered
+feedforward neural network over straight forward implementation of a
+Machine Learning algorithm (like a random forest, SVM or decision tree)
+due to increased performance bartered by the multiple layers over
+greater model complexity. The accuracy over validation data from ML
+algorithms seemed to saturate at ~70 - 75%. Whereas Neural Network
+enable us to alter this scenario.A 4-layered network was observed to fare better on cross-validation set
+than a single layered machine learning algorithm. Careful design of
+parameters and hyper parameter tuning of each layer heightens the
+accuracy obtained. We experimented with the number of neurons of 
+each layer and activation functions and found the below depicted model
+to perform the best for the given data.
+
